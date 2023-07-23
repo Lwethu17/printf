@@ -1,1 +1,1 @@
-This is a team project on printf done by Olwethu and Lerato
+This is a first team project on printf done by Olwethu and Lerato
